@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: lightgreen;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: times new roman;
+  font-size: 20px;
+}
+</style>
+</head>
+<body>
+
+  <h1>
+    My Resume
+  </h1>
+
+  <h2> Name </h2>
+  <p1>
+    Johann Z. Igoy
+  </p1>
+
+  <img src="JohannIgoy.jpeg" alt="Johann" width="500" height="333">
+
+  <h2> Phone Number </h2>
+  <a href="https://goo.gl/maps/r8f5RP2rc65CvA1u6">Call me at +14809654308</a>
+
+  <h2> Address </h2>
+  <a href="https://goo.gl/maps/r8f5RP2rc65CvA1u6">1215 S Forest Ave, Tempe, AZ 85281</a>
+
+  <h2> Email </h2>
+  <a href="mailto:jigoy@asu.edu">jigoy@asu.edu</a>
+
+  <style>
+  table, th, td {
+  border: 1px solid black;
+  }
+  </style>
+  </head>
+  <body>
+
+  <h2>Education</h2>
+
+  <p>Places I have studied.</p>
+
+  <table style="width:100%">
+  <tr>
+  <th>School Name</th>
+  <th>Type</th>
+  <th>Graduated</th>
+  </tr>
+  <tr>
+  <td>Corona Del Sol Public</td>
+  <td>High School Diploma</td>
+  <td>2019</td>
+  </tr>
+  <tr>
+  <td>ASU Tempe Campus</td>
+  <td>Bachelor's Degree in Digital Culture (Graphic Information Technology)</td>
+  <td>(In Progress)</td>
+  </tr>
+
+  </table>
+
+  <h2> Experience </h2>
+
+  <p> - Volunteer work at St. Andrew the Apostle Church </p>
+  <p> - Door Dash Driver </p>
+
+
+
+  </body>
+  </html>
+
+</body>
+</html>
